@@ -1,0 +1,8 @@
+ChatGPT code:
+src/genie.py
+examples/demo.py
+
+Claude code:
+src/genie_circuitpython.py
+examples/genie_example.py
+
